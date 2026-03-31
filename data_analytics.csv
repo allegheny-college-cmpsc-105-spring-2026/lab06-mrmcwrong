@@ -1,13 +1,85 @@
-Time,KnowledgeOfMovies,Dune1Watch,Dune1Rating,Dune2Watch,Dune2Rating,WillYouWatch,2026Movie
-3/17/2026 19:11:12,No,No,,No,,No,Reminders of Him
-3/17/2026 19:12:45,Yes,Yes,6,Yes,4,Yes,Avengers: Doomsday
-3/17/2026 19:15:47,Yes,Yes,8,Yes,8,,The Clemp
-3/17/2026 19:23:39,Yes,No,,No,,No,Hoppers
-3/17/2026 19:27:16,Yes,No,,Yes,7,No,Avengers: Doomsday
-3/18/2026 0:09:12,Yes,No,,No,,Yes,Avengers: Doomsday
-3/18/2026 0:38:58,Yes,No,,No,,No,GTA VI
-3/19/2026 17:47:53,Yes,No,,No,,Yes,Avengers: Doomsday
-3/19/2026 14:18:05,Yes,Yes,8,No,,Yes,Spiderman: Brand New Day
-3/24/2026 14:52:12,Yes,Yes,8,Yes,9,,The Odyssey
-3/24/2026 14:58:53,No,No,,No,,No,Not Sure
-3/24/2026 15:34:03,Yes,No,,No,,No,Spiderman: Brand New Day
+# ----------------------------------------
+# Reports snapshot
+# Account: Brennen McWright
+# Property: CMPSC105 Lab 6 Brennen McWright
+# ----------------------------------------
+#  
+# Start date: 20260302
+# End date: 20260329
+Active users,New users,Average engagement time per active user,Event count
+12,12,7.333333333333333,88
+
+#  
+# Start date: 20260302
+# End date: 20260329
+Page title and screen class,Views,Active users,Event count,Bounce rate
+Data Analytics Lab – EXPLORER,17,12,56,0.25
+Questionnaire – EXPLORER,14,9,31,0.1
+Analytics – EXPLORER,1,1,1,0
+
+#  
+# Start date: 20260302
+# End date: 20260329
+First user source / medium,Active users
+(direct) / (none),9
+google / organic,3
+
+#  
+# Start date: 20260302
+# End date: 20260329
+Session source / medium,Sessions
+(direct) / (none),9
+google / organic,4
+
+#  
+# Start date: 20260302
+# End date: 20260329
+Nth day,new
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,8
+0016,0
+0017,1
+0018,0
+0019,0
+0020,0
+0021,0
+0022,3
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+
+# How does activity on your platforms compare?
+# Start date: 20260302
+# End date: 20260329
+Platform,Key events
+
+
+#  
+# Start date: 20260302
+# End date: 20260329
+City,Active users
+Meadville,8
+Junction City,1
+New York,1
+
+#  
+# Start date: 20260302
+# End date: 20260329
+Audience name,Active users
+All Users,12
