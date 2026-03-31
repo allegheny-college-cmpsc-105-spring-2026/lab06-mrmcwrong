@@ -2,14 +2,6 @@
 title: Questionnaire
 ---
 
-What you see below is a sample Google Form.
+What you see below is my Google Form.
 
 <iframe src="https://forms.gle/rMnVXQ2UUqn7i5WQ6" width="640" height="1044" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-TODO: You can now check to see your data. If you have responses from 15+ people,
-download the CSV files using the names `data_survey.csv` and `data_analytics.csv`.
-
-TODO: If you reupload those files into your GitHub Repos under the data directory,
-the `Data` tab should show your data!!
-
-TODO: Now find the ipynb file in your GitHub repo and continue with the TODOs.
