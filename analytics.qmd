@@ -3,7 +3,7 @@ title: "Analytics"
 ---
 
 - My Google Analytics:
-  - go to [https://analytics.google.com/analytics/web/#/a387883670p528800243/reports/reportinghub?params=_u..nav%3Dmaui](Google Analytics)
+  - go to [Google Analytics](https://analytics.google.com/analytics/web/#/a387883670p528800243/reports/reportinghub?params=_u..nav%3Dmaui)
 
 <!-- CMPSC 105 - Please do not edit below this line -->
 
