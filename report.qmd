@@ -1,29 +1,23 @@
 ---
-title: Report
+title: Brennen's Lab 6 Report
 ---
-
-TODO: Write your report in this `report.qmd` file using markdown syntax.
 
 ## What this was lab about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
+This lab taught us to create websites and insert google form links and data through Quarto. We also manipulated our data to do small scale experiments and share our findings on our website.
 
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+I used a google form on my website to collect data about Dune 1, Dune 2, and the most anticipated movies for this year. I also used google analytics to get data about how many people were using which pages on my website at what times.
 
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
-
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
-
-Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
+My classmates like both Dune 1 and Dune 2. Dune 2 appeared to be higher rated than Dune 1, but one outlier caused the Dune 2 score to be lower than Dune 1. Also, as shown in Figure 2, Avengers: Doomsday and Spiderman: Brand New Day are the two most anticipated movies by the class (a majority of students in the class are most excited about a Marvel movie this year). Only one person at one time saw the analytics page (as shown in figure 1). Otherwise, users stuck to the Data Analytics Lab (home) and Questionnaire pages.
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
+Data gathering is important because without the collection of a dataset, you would be unable to find any trends or draw any comparisons. Doing so in an organized manner will help make your data more easily interpretable.
 
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+With larger sample sizes, Dune 1 and 2 ratings would be more accurate. It may also be wise to expand beyond this classroom because Marvel may be favored or biased towards in the Computer Science student body.
